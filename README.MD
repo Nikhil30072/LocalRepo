@@ -1,1 +1,1 @@
-This is my new repo
+I want to learn Git and GitHub. That is why I created this repository and a webpage for learning Git and GitHub!
